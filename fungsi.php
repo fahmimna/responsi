@@ -1,7 +1,7 @@
 <?php 
 
 function base_url($path = null){
-	$base_url = "http://localhost/123200005/";
+	$base_url = "http://localhost/123200002/";
 	if($path == null){
 		return $base_url;
 	} else {
